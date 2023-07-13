@@ -23,3 +23,5 @@ Si el contacto no está conectado, se debe mostrar: **Contacto No Disponible**
 - El Componente B debe ser renderizado desde el componte A y recibir los props adecuadamente
 
 **Recordatorio:** Haz uso de Proptypes adecuadamente
+
+Curso completo y actividad en [Open Bootcamp](https://campus.open-bootcamp.com/cursos/1/leccion/193)
